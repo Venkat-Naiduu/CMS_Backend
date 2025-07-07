@@ -1,0 +1,501 @@
+ID,Procedure Name,Specialty,Procedure Code,Equipment/Infra Required,Cost (INR),Typically Available In,Not Feasible in Tier-3 Due to
+1,Bone Marrow Transplant,Hematology,HEM001001,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+2,Liver Transplant,Hepatology,HEP001002,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+3,Gamma Knife Radiosurgery,Neurosurgery,NS001003,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+4,Robotic-Assisted Prostatectomy,Urology,URO001004,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+5,Robotic-Assisted Prostatectomy,Urology,URO001005,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+6,Bone Marrow Transplant,Hematology,HEM001006,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+7,Liver Transplant,Hepatology,HEP001007,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+8,Bone Marrow Transplant,Hematology,HEM001008,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+9,Bone Marrow Transplant,Hematology,HEM001009,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+10,Robotic-Assisted Prostatectomy,Urology,URO001010,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+11,Robotic-Assisted Prostatectomy,Urology,URO001011,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+12,Liver Transplant,Hepatology,HEP001012,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+13,Bone Marrow Transplant,Hematology,HEM001013,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+14,Gamma Knife Radiosurgery,Neurosurgery,NS001014,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+15,Bone Marrow Transplant,Hematology,HEM001015,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+16,CAR-T Cell Therapy,Immuno-Oncology,ONC004016,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+17,Bone Marrow Transplant,Hematology,HEM001017,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+18,CAR-T Cell Therapy,Immuno-Oncology,ONC004018,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+19,Robotic-Assisted Prostatectomy,Urology,URO001019,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+20,Liver Transplant,Hepatology,HEP001020,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+21,Liver Transplant,Hepatology,HEP001021,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+22,Robotic-Assisted Prostatectomy,Urology,URO001022,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+23,Liver Transplant,Hepatology,HEP001023,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+24,Liver Transplant,Hepatology,HEP001024,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+25,Robotic-Assisted Prostatectomy,Urology,URO001025,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+26,Liver Transplant,Hepatology,HEP001026,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+27,Liver Transplant,Hepatology,HEP001027,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+28,CAR-T Cell Therapy,Immuno-Oncology,ONC004028,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+29,Gamma Knife Radiosurgery,Neurosurgery,NS001029,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+30,Robotic-Assisted Prostatectomy,Urology,URO001030,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+31,Robotic-Assisted Prostatectomy,Urology,URO001031,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+32,Liver Transplant,Hepatology,HEP001032,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+33,Bone Marrow Transplant,Hematology,HEM001033,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+34,Bone Marrow Transplant,Hematology,HEM001034,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+35,Liver Transplant,Hepatology,HEP001035,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+36,Bone Marrow Transplant,Hematology,HEM001036,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+37,Gamma Knife Radiosurgery,Neurosurgery,NS001037,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+38,Robotic-Assisted Prostatectomy,Urology,URO001038,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+39,Bone Marrow Transplant,Hematology,HEM001039,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+40,CAR-T Cell Therapy,Immuno-Oncology,ONC004040,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+41,CAR-T Cell Therapy,Immuno-Oncology,ONC004041,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+42,Robotic-Assisted Prostatectomy,Urology,URO001042,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+43,Liver Transplant,Hepatology,HEP001043,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+44,Bone Marrow Transplant,Hematology,HEM001044,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+45,CAR-T Cell Therapy,Immuno-Oncology,ONC004045,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+46,CAR-T Cell Therapy,Immuno-Oncology,ONC004046,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+47,Robotic-Assisted Prostatectomy,Urology,URO001047,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+48,Robotic-Assisted Prostatectomy,Urology,URO001048,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+49,Bone Marrow Transplant,Hematology,HEM001049,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+50,Robotic-Assisted Prostatectomy,Urology,URO001050,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+51,Gamma Knife Radiosurgery,Neurosurgery,NS001051,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+52,Liver Transplant,Hepatology,HEP001052,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+53,Gamma Knife Radiosurgery,Neurosurgery,NS001053,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+54,Bone Marrow Transplant,Hematology,HEM001054,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+55,CAR-T Cell Therapy,Immuno-Oncology,ONC004055,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+56,Gamma Knife Radiosurgery,Neurosurgery,NS001056,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+57,Bone Marrow Transplant,Hematology,HEM001057,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+58,CAR-T Cell Therapy,Immuno-Oncology,ONC004058,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+59,Gamma Knife Radiosurgery,Neurosurgery,NS001059,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+60,Robotic-Assisted Prostatectomy,Urology,URO001060,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+61,Bone Marrow Transplant,Hematology,HEM001061,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+62,Robotic-Assisted Prostatectomy,Urology,URO001062,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+63,Liver Transplant,Hepatology,HEP001063,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+64,Gamma Knife Radiosurgery,Neurosurgery,NS001064,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+65,CAR-T Cell Therapy,Immuno-Oncology,ONC004065,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+66,Robotic-Assisted Prostatectomy,Urology,URO001066,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+67,Liver Transplant,Hepatology,HEP001067,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+68,Gamma Knife Radiosurgery,Neurosurgery,NS001068,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+69,CAR-T Cell Therapy,Immuno-Oncology,ONC004069,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+70,Bone Marrow Transplant,Hematology,HEM001070,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+71,Gamma Knife Radiosurgery,Neurosurgery,NS001071,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+72,Gamma Knife Radiosurgery,Neurosurgery,NS001072,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+73,CAR-T Cell Therapy,Immuno-Oncology,ONC004073,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+74,Liver Transplant,Hepatology,HEP001074,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+75,Gamma Knife Radiosurgery,Neurosurgery,NS001075,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+76,Robotic-Assisted Prostatectomy,Urology,URO001076,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+77,CAR-T Cell Therapy,Immuno-Oncology,ONC004077,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+78,Bone Marrow Transplant,Hematology,HEM001078,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+79,Liver Transplant,Hepatology,HEP001079,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+80,Robotic-Assisted Prostatectomy,Urology,URO001080,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+81,Liver Transplant,Hepatology,HEP001081,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+82,Gamma Knife Radiosurgery,Neurosurgery,NS001082,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+83,Robotic-Assisted Prostatectomy,Urology,URO001083,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+84,Gamma Knife Radiosurgery,Neurosurgery,NS001084,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+85,Gamma Knife Radiosurgery,Neurosurgery,NS001085,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+86,Gamma Knife Radiosurgery,Neurosurgery,NS001086,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+87,Robotic-Assisted Prostatectomy,Urology,URO001087,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+88,CAR-T Cell Therapy,Immuno-Oncology,ONC004088,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+89,Gamma Knife Radiosurgery,Neurosurgery,NS001089,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+90,Gamma Knife Radiosurgery,Neurosurgery,NS001090,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+91,Bone Marrow Transplant,Hematology,HEM001091,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+92,CAR-T Cell Therapy,Immuno-Oncology,ONC004092,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+93,Liver Transplant,Hepatology,HEP001093,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+94,Bone Marrow Transplant,Hematology,HEM001094,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+95,Bone Marrow Transplant,Hematology,HEM001095,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+96,Liver Transplant,Hepatology,HEP001096,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+97,Bone Marrow Transplant,Hematology,HEM001097,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+98,Liver Transplant,Hepatology,HEP001098,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+99,Gamma Knife Radiosurgery,Neurosurgery,NS001099,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+100,Liver Transplant,Hepatology,HEP001100,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+101,Bone Marrow Transplant,Hematology,HEM001101,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+102,Robotic-Assisted Prostatectomy,Urology,URO001102,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+103,Bone Marrow Transplant,Hematology,HEM001103,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+104,Liver Transplant,Hepatology,HEP001104,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+105,Gamma Knife Radiosurgery,Neurosurgery,NS001105,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+106,Gamma Knife Radiosurgery,Neurosurgery,NS001106,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+107,CAR-T Cell Therapy,Immuno-Oncology,ONC004107,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+108,Gamma Knife Radiosurgery,Neurosurgery,NS001108,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+109,Gamma Knife Radiosurgery,Neurosurgery,NS001109,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+110,Robotic-Assisted Prostatectomy,Urology,URO001110,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+111,CAR-T Cell Therapy,Immuno-Oncology,ONC004111,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+112,Bone Marrow Transplant,Hematology,HEM001112,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+113,Robotic-Assisted Prostatectomy,Urology,URO001113,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+114,Robotic-Assisted Prostatectomy,Urology,URO001114,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+115,CAR-T Cell Therapy,Immuno-Oncology,ONC004115,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+116,Robotic-Assisted Prostatectomy,Urology,URO001116,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+117,Robotic-Assisted Prostatectomy,Urology,URO001117,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+118,Liver Transplant,Hepatology,HEP001118,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+119,CAR-T Cell Therapy,Immuno-Oncology,ONC004119,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+120,Bone Marrow Transplant,Hematology,HEM001120,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+121,Liver Transplant,Hepatology,HEP001121,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+122,Bone Marrow Transplant,Hematology,HEM001122,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+123,Gamma Knife Radiosurgery,Neurosurgery,NS001123,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+124,Gamma Knife Radiosurgery,Neurosurgery,NS001124,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+125,Bone Marrow Transplant,Hematology,HEM001125,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+126,CAR-T Cell Therapy,Immuno-Oncology,ONC004126,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+127,CAR-T Cell Therapy,Immuno-Oncology,ONC004127,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+128,Liver Transplant,Hepatology,HEP001128,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+129,Liver Transplant,Hepatology,HEP001129,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+130,Robotic-Assisted Prostatectomy,Urology,URO001130,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+131,Robotic-Assisted Prostatectomy,Urology,URO001131,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+132,CAR-T Cell Therapy,Immuno-Oncology,ONC004132,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+133,Robotic-Assisted Prostatectomy,Urology,URO001133,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+134,Gamma Knife Radiosurgery,Neurosurgery,NS001134,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+135,Gamma Knife Radiosurgery,Neurosurgery,NS001135,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+136,Robotic-Assisted Prostatectomy,Urology,URO001136,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+137,Robotic-Assisted Prostatectomy,Urology,URO001137,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+138,Bone Marrow Transplant,Hematology,HEM001138,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+139,Gamma Knife Radiosurgery,Neurosurgery,NS001139,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+140,Gamma Knife Radiosurgery,Neurosurgery,NS001140,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+141,CAR-T Cell Therapy,Immuno-Oncology,ONC004141,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+142,CAR-T Cell Therapy,Immuno-Oncology,ONC004142,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+143,Robotic-Assisted Prostatectomy,Urology,URO001143,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+144,Bone Marrow Transplant,Hematology,HEM001144,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+145,CAR-T Cell Therapy,Immuno-Oncology,ONC004145,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+146,Bone Marrow Transplant,Hematology,HEM001146,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+147,Bone Marrow Transplant,Hematology,HEM001147,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+148,Gamma Knife Radiosurgery,Neurosurgery,NS001148,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+149,Bone Marrow Transplant,Hematology,HEM001149,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+150,Liver Transplant,Hepatology,HEP001150,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+151,Robotic-Assisted Prostatectomy,Urology,URO001151,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+152,Bone Marrow Transplant,Hematology,HEM001152,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+153,CAR-T Cell Therapy,Immuno-Oncology,ONC004153,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+154,Gamma Knife Radiosurgery,Neurosurgery,NS001154,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+155,Liver Transplant,Hepatology,HEP001155,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+156,Robotic-Assisted Prostatectomy,Urology,URO001156,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+157,Gamma Knife Radiosurgery,Neurosurgery,NS001157,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+158,CAR-T Cell Therapy,Immuno-Oncology,ONC004158,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+159,CAR-T Cell Therapy,Immuno-Oncology,ONC004159,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+160,CAR-T Cell Therapy,Immuno-Oncology,ONC004160,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+161,Robotic-Assisted Prostatectomy,Urology,URO001161,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+162,Bone Marrow Transplant,Hematology,HEM001162,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+163,Gamma Knife Radiosurgery,Neurosurgery,NS001163,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+164,CAR-T Cell Therapy,Immuno-Oncology,ONC004164,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+165,Bone Marrow Transplant,Hematology,HEM001165,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+166,Robotic-Assisted Prostatectomy,Urology,URO001166,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+167,Liver Transplant,Hepatology,HEP001167,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+168,Bone Marrow Transplant,Hematology,HEM001168,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+169,Bone Marrow Transplant,Hematology,HEM001169,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+170,Robotic-Assisted Prostatectomy,Urology,URO001170,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+171,Liver Transplant,Hepatology,HEP001171,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+172,Liver Transplant,Hepatology,HEP001172,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+173,Liver Transplant,Hepatology,HEP001173,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+174,Gamma Knife Radiosurgery,Neurosurgery,NS001174,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+175,Gamma Knife Radiosurgery,Neurosurgery,NS001175,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+176,CAR-T Cell Therapy,Immuno-Oncology,ONC004176,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+177,Gamma Knife Radiosurgery,Neurosurgery,NS001177,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+178,Gamma Knife Radiosurgery,Neurosurgery,NS001178,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+179,Gamma Knife Radiosurgery,Neurosurgery,NS001179,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+180,Gamma Knife Radiosurgery,Neurosurgery,NS001180,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+181,Bone Marrow Transplant,Hematology,HEM001181,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+182,Bone Marrow Transplant,Hematology,HEM001182,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+183,CAR-T Cell Therapy,Immuno-Oncology,ONC004183,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+184,Robotic-Assisted Prostatectomy,Urology,URO001184,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+185,Liver Transplant,Hepatology,HEP001185,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+186,Bone Marrow Transplant,Hematology,HEM001186,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+187,Bone Marrow Transplant,Hematology,HEM001187,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+188,Robotic-Assisted Prostatectomy,Urology,URO001188,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+189,CAR-T Cell Therapy,Immuno-Oncology,ONC004189,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+190,CAR-T Cell Therapy,Immuno-Oncology,ONC004190,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+191,CAR-T Cell Therapy,Immuno-Oncology,ONC004191,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+192,CAR-T Cell Therapy,Immuno-Oncology,ONC004192,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+193,CAR-T Cell Therapy,Immuno-Oncology,ONC004193,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+194,Robotic-Assisted Prostatectomy,Urology,URO001194,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+195,Bone Marrow Transplant,Hematology,HEM001195,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+196,Gamma Knife Radiosurgery,Neurosurgery,NS001196,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+197,Gamma Knife Radiosurgery,Neurosurgery,NS001197,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+198,Robotic-Assisted Prostatectomy,Urology,URO001198,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+199,Robotic-Assisted Prostatectomy,Urology,URO001199,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+200,Liver Transplant,Hepatology,HEP001200,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+201,CAR-T Cell Therapy,Immuno-Oncology,ONC004201,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+202,CAR-T Cell Therapy,Immuno-Oncology,ONC004202,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+203,Gamma Knife Radiosurgery,Neurosurgery,NS001203,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+204,Liver Transplant,Hepatology,HEP001204,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+205,Gamma Knife Radiosurgery,Neurosurgery,NS001205,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+206,Bone Marrow Transplant,Hematology,HEM001206,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+207,CAR-T Cell Therapy,Immuno-Oncology,ONC004207,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+208,Robotic-Assisted Prostatectomy,Urology,URO001208,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+209,Liver Transplant,Hepatology,HEP001209,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+210,Bone Marrow Transplant,Hematology,HEM001210,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+211,CAR-T Cell Therapy,Immuno-Oncology,ONC004211,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+212,Liver Transplant,Hepatology,HEP001212,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+213,Gamma Knife Radiosurgery,Neurosurgery,NS001213,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+214,Liver Transplant,Hepatology,HEP001214,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+215,Gamma Knife Radiosurgery,Neurosurgery,NS001215,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+216,Bone Marrow Transplant,Hematology,HEM001216,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+217,Robotic-Assisted Prostatectomy,Urology,URO001217,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+218,CAR-T Cell Therapy,Immuno-Oncology,ONC004218,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+219,Bone Marrow Transplant,Hematology,HEM001219,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+220,Gamma Knife Radiosurgery,Neurosurgery,NS001220,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+221,CAR-T Cell Therapy,Immuno-Oncology,ONC004221,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+222,Bone Marrow Transplant,Hematology,HEM001222,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+223,Robotic-Assisted Prostatectomy,Urology,URO001223,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+224,Gamma Knife Radiosurgery,Neurosurgery,NS001224,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+225,Bone Marrow Transplant,Hematology,HEM001225,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+226,Bone Marrow Transplant,Hematology,HEM001226,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+227,Gamma Knife Radiosurgery,Neurosurgery,NS001227,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+228,CAR-T Cell Therapy,Immuno-Oncology,ONC004228,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+229,Gamma Knife Radiosurgery,Neurosurgery,NS001229,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+230,Gamma Knife Radiosurgery,Neurosurgery,NS001230,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+231,Robotic-Assisted Prostatectomy,Urology,URO001231,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+232,Gamma Knife Radiosurgery,Neurosurgery,NS001232,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+233,CAR-T Cell Therapy,Immuno-Oncology,ONC004233,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+234,CAR-T Cell Therapy,Immuno-Oncology,ONC004234,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+235,Liver Transplant,Hepatology,HEP001235,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+236,Liver Transplant,Hepatology,HEP001236,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+237,Robotic-Assisted Prostatectomy,Urology,URO001237,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+238,Gamma Knife Radiosurgery,Neurosurgery,NS001238,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+239,Gamma Knife Radiosurgery,Neurosurgery,NS001239,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+240,Liver Transplant,Hepatology,HEP001240,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+241,CAR-T Cell Therapy,Immuno-Oncology,ONC004241,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+242,Bone Marrow Transplant,Hematology,HEM001242,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+243,Liver Transplant,Hepatology,HEP001243,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+244,Bone Marrow Transplant,Hematology,HEM001244,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+245,CAR-T Cell Therapy,Immuno-Oncology,ONC004245,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+246,Liver Transplant,Hepatology,HEP001246,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+247,Liver Transplant,Hepatology,HEP001247,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+248,Robotic-Assisted Prostatectomy,Urology,URO001248,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+249,Bone Marrow Transplant,Hematology,HEM001249,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+250,Robotic-Assisted Prostatectomy,Urology,URO001250,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+251,CAR-T Cell Therapy,Immuno-Oncology,ONC004251,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+252,Bone Marrow Transplant,Hematology,HEM001252,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+253,Robotic-Assisted Prostatectomy,Urology,URO001253,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+254,Bone Marrow Transplant,Hematology,HEM001254,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+255,Bone Marrow Transplant,Hematology,HEM001255,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+256,Robotic-Assisted Prostatectomy,Urology,URO001256,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+257,Liver Transplant,Hepatology,HEP001257,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+258,Liver Transplant,Hepatology,HEP001258,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+259,Liver Transplant,Hepatology,HEP001259,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+260,Gamma Knife Radiosurgery,Neurosurgery,NS001260,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+261,Bone Marrow Transplant,Hematology,HEM001261,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+262,Liver Transplant,Hepatology,HEP001262,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+263,Liver Transplant,Hepatology,HEP001263,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+264,Gamma Knife Radiosurgery,Neurosurgery,NS001264,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+265,Liver Transplant,Hepatology,HEP001265,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+266,Bone Marrow Transplant,Hematology,HEM001266,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+267,Bone Marrow Transplant,Hematology,HEM001267,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+268,Gamma Knife Radiosurgery,Neurosurgery,NS001268,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+269,Gamma Knife Radiosurgery,Neurosurgery,NS001269,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+270,CAR-T Cell Therapy,Immuno-Oncology,ONC004270,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+271,Robotic-Assisted Prostatectomy,Urology,URO001271,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+272,Liver Transplant,Hepatology,HEP001272,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+273,Liver Transplant,Hepatology,HEP001273,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+274,Liver Transplant,Hepatology,HEP001274,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+275,Liver Transplant,Hepatology,HEP001275,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+276,Gamma Knife Radiosurgery,Neurosurgery,NS001276,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+277,Gamma Knife Radiosurgery,Neurosurgery,NS001277,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+278,Bone Marrow Transplant,Hematology,HEM001278,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+279,Gamma Knife Radiosurgery,Neurosurgery,NS001279,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+280,Liver Transplant,Hepatology,HEP001280,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+281,Bone Marrow Transplant,Hematology,HEM001281,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+282,Gamma Knife Radiosurgery,Neurosurgery,NS001282,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+283,Bone Marrow Transplant,Hematology,HEM001283,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+284,Gamma Knife Radiosurgery,Neurosurgery,NS001284,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+285,Liver Transplant,Hepatology,HEP001285,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+286,Bone Marrow Transplant,Hematology,HEM001286,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+287,CAR-T Cell Therapy,Immuno-Oncology,ONC004287,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+288,CAR-T Cell Therapy,Immuno-Oncology,ONC004288,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+289,CAR-T Cell Therapy,Immuno-Oncology,ONC004289,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+290,Bone Marrow Transplant,Hematology,HEM001290,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+291,Liver Transplant,Hepatology,HEP001291,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+292,Gamma Knife Radiosurgery,Neurosurgery,NS001292,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+293,Gamma Knife Radiosurgery,Neurosurgery,NS001293,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+294,Bone Marrow Transplant,Hematology,HEM001294,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+295,Robotic-Assisted Prostatectomy,Urology,URO001295,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+296,Liver Transplant,Hepatology,HEP001296,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+297,CAR-T Cell Therapy,Immuno-Oncology,ONC004297,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+298,Liver Transplant,Hepatology,HEP001298,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+299,Robotic-Assisted Prostatectomy,Urology,URO001299,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+300,Gamma Knife Radiosurgery,Neurosurgery,NS001300,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+301,Liver Transplant,Hepatology,HEP001301,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+302,Robotic-Assisted Prostatectomy,Urology,URO001302,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+303,CAR-T Cell Therapy,Immuno-Oncology,ONC004303,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+304,Robotic-Assisted Prostatectomy,Urology,URO001304,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+305,Liver Transplant,Hepatology,HEP001305,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+306,Liver Transplant,Hepatology,HEP001306,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+307,CAR-T Cell Therapy,Immuno-Oncology,ONC004307,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+308,Gamma Knife Radiosurgery,Neurosurgery,NS001308,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+309,Robotic-Assisted Prostatectomy,Urology,URO001309,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+310,Robotic-Assisted Prostatectomy,Urology,URO001310,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+311,Gamma Knife Radiosurgery,Neurosurgery,NS001311,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+312,Liver Transplant,Hepatology,HEP001312,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+313,Gamma Knife Radiosurgery,Neurosurgery,NS001313,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+314,Robotic-Assisted Prostatectomy,Urology,URO001314,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+315,Gamma Knife Radiosurgery,Neurosurgery,NS001315,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+316,Robotic-Assisted Prostatectomy,Urology,URO001316,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+317,Gamma Knife Radiosurgery,Neurosurgery,NS001317,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+318,Liver Transplant,Hepatology,HEP001318,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+319,Robotic-Assisted Prostatectomy,Urology,URO001319,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+320,Gamma Knife Radiosurgery,Neurosurgery,NS001320,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+321,Gamma Knife Radiosurgery,Neurosurgery,NS001321,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+322,Liver Transplant,Hepatology,HEP001322,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+323,Gamma Knife Radiosurgery,Neurosurgery,NS001323,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+324,Bone Marrow Transplant,Hematology,HEM001324,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+325,Gamma Knife Radiosurgery,Neurosurgery,NS001325,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+326,Gamma Knife Radiosurgery,Neurosurgery,NS001326,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+327,Bone Marrow Transplant,Hematology,HEM001327,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+328,Robotic-Assisted Prostatectomy,Urology,URO001328,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+329,Gamma Knife Radiosurgery,Neurosurgery,NS001329,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+330,Gamma Knife Radiosurgery,Neurosurgery,NS001330,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+331,CAR-T Cell Therapy,Immuno-Oncology,ONC004331,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+332,Gamma Knife Radiosurgery,Neurosurgery,NS001332,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+333,Robotic-Assisted Prostatectomy,Urology,URO001333,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+334,Gamma Knife Radiosurgery,Neurosurgery,NS001334,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+335,Gamma Knife Radiosurgery,Neurosurgery,NS001335,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+336,Bone Marrow Transplant,Hematology,HEM001336,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+337,Gamma Knife Radiosurgery,Neurosurgery,NS001337,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+338,Bone Marrow Transplant,Hematology,HEM001338,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+339,CAR-T Cell Therapy,Immuno-Oncology,ONC004339,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+340,CAR-T Cell Therapy,Immuno-Oncology,ONC004340,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+341,Robotic-Assisted Prostatectomy,Urology,URO001341,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+342,Bone Marrow Transplant,Hematology,HEM001342,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+343,Gamma Knife Radiosurgery,Neurosurgery,NS001343,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+344,Robotic-Assisted Prostatectomy,Urology,URO001344,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+345,CAR-T Cell Therapy,Immuno-Oncology,ONC004345,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+346,Gamma Knife Radiosurgery,Neurosurgery,NS001346,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+347,Liver Transplant,Hepatology,HEP001347,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+348,Bone Marrow Transplant,Hematology,HEM001348,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+349,CAR-T Cell Therapy,Immuno-Oncology,ONC004349,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+350,Robotic-Assisted Prostatectomy,Urology,URO001350,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+351,Bone Marrow Transplant,Hematology,HEM001351,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+352,Gamma Knife Radiosurgery,Neurosurgery,NS001352,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+353,Robotic-Assisted Prostatectomy,Urology,URO001353,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+354,CAR-T Cell Therapy,Immuno-Oncology,ONC004354,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+355,Liver Transplant,Hepatology,HEP001355,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+356,Robotic-Assisted Prostatectomy,Urology,URO001356,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+357,Robotic-Assisted Prostatectomy,Urology,URO001357,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+358,Gamma Knife Radiosurgery,Neurosurgery,NS001358,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+359,Robotic-Assisted Prostatectomy,Urology,URO001359,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+360,CAR-T Cell Therapy,Immuno-Oncology,ONC004360,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+361,Gamma Knife Radiosurgery,Neurosurgery,NS001361,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+362,CAR-T Cell Therapy,Immuno-Oncology,ONC004362,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+363,Liver Transplant,Hepatology,HEP001363,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+364,Liver Transplant,Hepatology,HEP001364,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+365,CAR-T Cell Therapy,Immuno-Oncology,ONC004365,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+366,Liver Transplant,Hepatology,HEP001366,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+367,Bone Marrow Transplant,Hematology,HEM001367,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+368,Liver Transplant,Hepatology,HEP001368,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+369,Robotic-Assisted Prostatectomy,Urology,URO001369,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+370,Gamma Knife Radiosurgery,Neurosurgery,NS001370,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+371,Gamma Knife Radiosurgery,Neurosurgery,NS001371,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+372,Liver Transplant,Hepatology,HEP001372,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+373,Robotic-Assisted Prostatectomy,Urology,URO001373,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+374,Gamma Knife Radiosurgery,Neurosurgery,NS001374,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+375,Gamma Knife Radiosurgery,Neurosurgery,NS001375,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+376,Bone Marrow Transplant,Hematology,HEM001376,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+377,CAR-T Cell Therapy,Immuno-Oncology,ONC004377,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+378,Liver Transplant,Hepatology,HEP001378,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+379,Liver Transplant,Hepatology,HEP001379,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+380,CAR-T Cell Therapy,Immuno-Oncology,ONC004380,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+381,CAR-T Cell Therapy,Immuno-Oncology,ONC004381,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+382,Gamma Knife Radiosurgery,Neurosurgery,NS001382,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+383,Robotic-Assisted Prostatectomy,Urology,URO001383,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+384,Robotic-Assisted Prostatectomy,Urology,URO001384,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+385,CAR-T Cell Therapy,Immuno-Oncology,ONC004385,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+386,Gamma Knife Radiosurgery,Neurosurgery,NS001386,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+387,Liver Transplant,Hepatology,HEP001387,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+388,Bone Marrow Transplant,Hematology,HEM001388,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+389,Robotic-Assisted Prostatectomy,Urology,URO001389,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+390,CAR-T Cell Therapy,Immuno-Oncology,ONC004390,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+391,Bone Marrow Transplant,Hematology,HEM001391,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+392,Gamma Knife Radiosurgery,Neurosurgery,NS001392,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+393,CAR-T Cell Therapy,Immuno-Oncology,ONC004393,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+394,Gamma Knife Radiosurgery,Neurosurgery,NS001394,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+395,Gamma Knife Radiosurgery,Neurosurgery,NS001395,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+396,Bone Marrow Transplant,Hematology,HEM001396,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+397,Gamma Knife Radiosurgery,Neurosurgery,NS001397,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+398,Gamma Knife Radiosurgery,Neurosurgery,NS001398,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+399,Bone Marrow Transplant,Hematology,HEM001399,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+400,Bone Marrow Transplant,Hematology,HEM001400,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+401,Robotic-Assisted Prostatectomy,Urology,URO001401,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+402,Liver Transplant,Hepatology,HEP001402,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+403,Bone Marrow Transplant,Hematology,HEM001403,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+404,Liver Transplant,Hepatology,HEP001404,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+405,Bone Marrow Transplant,Hematology,HEM001405,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+406,Gamma Knife Radiosurgery,Neurosurgery,NS001406,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+407,Robotic-Assisted Prostatectomy,Urology,URO001407,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+408,Bone Marrow Transplant,Hematology,HEM001408,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+409,CAR-T Cell Therapy,Immuno-Oncology,ONC004409,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+410,Gamma Knife Radiosurgery,Neurosurgery,NS001410,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+411,Robotic-Assisted Prostatectomy,Urology,URO001411,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+412,Gamma Knife Radiosurgery,Neurosurgery,NS001412,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+413,Gamma Knife Radiosurgery,Neurosurgery,NS001413,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+414,CAR-T Cell Therapy,Immuno-Oncology,ONC004414,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+415,Robotic-Assisted Prostatectomy,Urology,URO001415,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+416,Gamma Knife Radiosurgery,Neurosurgery,NS001416,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+417,Bone Marrow Transplant,Hematology,HEM001417,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+418,Gamma Knife Radiosurgery,Neurosurgery,NS001418,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+419,Bone Marrow Transplant,Hematology,HEM001419,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+420,Bone Marrow Transplant,Hematology,HEM001420,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+421,Robotic-Assisted Prostatectomy,Urology,URO001421,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+422,CAR-T Cell Therapy,Immuno-Oncology,ONC004422,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+423,Bone Marrow Transplant,Hematology,HEM001423,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+424,Robotic-Assisted Prostatectomy,Urology,URO001424,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+425,Robotic-Assisted Prostatectomy,Urology,URO001425,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+426,Gamma Knife Radiosurgery,Neurosurgery,NS001426,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+427,Gamma Knife Radiosurgery,Neurosurgery,NS001427,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+428,Gamma Knife Radiosurgery,Neurosurgery,NS001428,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+429,Gamma Knife Radiosurgery,Neurosurgery,NS001429,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+430,CAR-T Cell Therapy,Immuno-Oncology,ONC004430,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+431,Robotic-Assisted Prostatectomy,Urology,URO001431,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+432,CAR-T Cell Therapy,Immuno-Oncology,ONC004432,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+433,Gamma Knife Radiosurgery,Neurosurgery,NS001433,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+434,Liver Transplant,Hepatology,HEP001434,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+435,Robotic-Assisted Prostatectomy,Urology,URO001435,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+436,Robotic-Assisted Prostatectomy,Urology,URO001436,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+437,Liver Transplant,Hepatology,HEP001437,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+438,Bone Marrow Transplant,Hematology,HEM001438,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+439,CAR-T Cell Therapy,Immuno-Oncology,ONC004439,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+440,Bone Marrow Transplant,Hematology,HEM001440,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+441,Gamma Knife Radiosurgery,Neurosurgery,NS001441,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+442,Robotic-Assisted Prostatectomy,Urology,URO001442,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+443,Bone Marrow Transplant,Hematology,HEM001443,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+444,Gamma Knife Radiosurgery,Neurosurgery,NS001444,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+445,Bone Marrow Transplant,Hematology,HEM001445,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+446,Bone Marrow Transplant,Hematology,HEM001446,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+447,CAR-T Cell Therapy,Immuno-Oncology,ONC004447,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+448,Bone Marrow Transplant,Hematology,HEM001448,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+449,Gamma Knife Radiosurgery,Neurosurgery,NS001449,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+450,Gamma Knife Radiosurgery,Neurosurgery,NS001450,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+451,Robotic-Assisted Prostatectomy,Urology,URO001451,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+452,Robotic-Assisted Prostatectomy,Urology,URO001452,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+453,Liver Transplant,Hepatology,HEP001453,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+454,Robotic-Assisted Prostatectomy,Urology,URO001454,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+455,Liver Transplant,Hepatology,HEP001455,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+456,Robotic-Assisted Prostatectomy,Urology,URO001456,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+457,Liver Transplant,Hepatology,HEP001457,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+458,Gamma Knife Radiosurgery,Neurosurgery,NS001458,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+459,Gamma Knife Radiosurgery,Neurosurgery,NS001459,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+460,CAR-T Cell Therapy,Immuno-Oncology,ONC004460,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+461,CAR-T Cell Therapy,Immuno-Oncology,ONC004461,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+462,Robotic-Assisted Prostatectomy,Urology,URO001462,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+463,Gamma Knife Radiosurgery,Neurosurgery,NS001463,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+464,Robotic-Assisted Prostatectomy,Urology,URO001464,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+465,Bone Marrow Transplant,Hematology,HEM001465,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+466,Robotic-Assisted Prostatectomy,Urology,URO001466,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+467,Robotic-Assisted Prostatectomy,Urology,URO001467,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+468,Gamma Knife Radiosurgery,Neurosurgery,NS001468,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+469,Gamma Knife Radiosurgery,Neurosurgery,NS001469,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+470,Robotic-Assisted Prostatectomy,Urology,URO001470,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+471,Liver Transplant,Hepatology,HEP001471,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+472,Robotic-Assisted Prostatectomy,Urology,URO001472,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+473,Bone Marrow Transplant,Hematology,HEM001473,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+474,Bone Marrow Transplant,Hematology,HEM001474,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+475,Robotic-Assisted Prostatectomy,Urology,URO001475,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+476,Gamma Knife Radiosurgery,Neurosurgery,NS001476,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+477,Liver Transplant,Hepatology,HEP001477,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+478,Robotic-Assisted Prostatectomy,Urology,URO001478,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+479,Bone Marrow Transplant,Hematology,HEM001479,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+480,Gamma Knife Radiosurgery,Neurosurgery,NS001480,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+481,Liver Transplant,Hepatology,HEP001481,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+482,Bone Marrow Transplant,Hematology,HEM001482,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+483,Gamma Knife Radiosurgery,Neurosurgery,NS001483,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+484,Liver Transplant,Hepatology,HEP001484,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+485,Liver Transplant,Hepatology,HEP001485,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+486,Bone Marrow Transplant,Hematology,HEM001486,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+487,Gamma Knife Radiosurgery,Neurosurgery,NS001487,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+488,Gamma Knife Radiosurgery,Neurosurgery,NS001488,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+489,Liver Transplant,Hepatology,HEP001489,"ICU, Transplant Surgeons, Donor Registry",2788966,Tier-1 Only,"Needs ICU, organ transport logistics"
+490,CAR-T Cell Therapy,Immuno-Oncology,ONC004490,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra
+491,Bone Marrow Transplant,Hematology,HEM001491,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+492,Gamma Knife Radiosurgery,Neurosurgery,NS001492,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+493,Robotic-Assisted Prostatectomy,Urology,URO001493,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+494,Robotic-Assisted Prostatectomy,Urology,URO001494,Da Vinci Surgical Robot,477457,Tier-1 & Tier-2,"Lack of robotic infrastructure, trained surgeons"
+495,Gamma Knife Radiosurgery,Neurosurgery,NS001495,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+496,Gamma Knife Radiosurgery,Neurosurgery,NS001496,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+497,Bone Marrow Transplant,Hematology,HEM001497,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+498,Gamma Knife Radiosurgery,Neurosurgery,NS001498,Gamma Knife Machine,296256,Metro Cities Only,Needs specialized radiation machines
+499,Bone Marrow Transplant,Hematology,HEM001499,"Stem Cell Lab, Isolation Unit",2489467,Tier-1 Only,"Need for advanced labs, post-care facilities"
+500,CAR-T Cell Therapy,Immuno-Oncology,ONC004500,"Cell Engineering Labs, ICU",3323218,Limited to 2–3 Centers,Requires gene editing & cell infusion infra

@@ -1,0 +1,24 @@
+Here are the extracted details from the hospital discharge summary:
+
+- **Provider:** Ken Cure, MD
+- **Patient:** Patient H Sample
+- **Sex:** Female
+- **Hospital Discharge Procedures:** 
+  1. 32650 Thoracoscopy with chest tube placement and pleurodesis.
+  
+- **History of Present Illness:** 
+  The patient is a 70-year-old female with a history of breast cancer diagnosed in her early 70's. She underwent a radical mastectomy and received postoperative radiation therapy. Recurrences led to treatment with Tamoxifen. Recently, she developed a large pleural effusion, necessitating hospitalization and thoracoscopy.
+
+- **Hospital Discharge Physical Findings:** 
+  Examination revealed a thin, pleasant female in mild respiratory distress with decreased breath sounds primarily on the right side and scattered rales. Cardiac examination was normal with regular rhythm, and no hepatosplenomegaly or peripheral clubbing, cyanosis, or edema was noted.
+
+- **Hospital Discharge Studies Summary:** 
+  A chest X-ray showed a large pleural effusion on the right.
+
+- **Hospital Course:** 
+  A CT scan suggested the lung was trapped by tumor and there were some adhesions. Thoracoscopy confirmed the presence of a pleural peel and multiple adhesions. Chest tubes were placed but subsequently removed. A TALC slurry was infused to manage symptoms.
+
+- **Hospital Discharge Followup:** 
+  The patient is being transferred to an extended-care facility. Follow-up will occur in three weeks with a chest X-ray, and she has been advised to contact her doctor if any problems arise. 
+
+These details summarize critical aspects of the patient's discharge summary.

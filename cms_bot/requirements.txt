@@ -1,0 +1,8 @@
+openai
+python-dotenv
+Pillow 
+pandas
+crewai
+spacy
+langchain
+'crewai[tools]'
